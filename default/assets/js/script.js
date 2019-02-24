@@ -23,7 +23,7 @@ $(document).ready(function(){
 	}
 	// mousewheel alert
 
-	$("html").niceScroll({
+	$("body").niceScroll({
 		zindex:'99999999',
 		cursorcolor: "rgba(0,0,0,0.4)",
 		cursorwidth:"6px",
